@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'cpf_brand';
+    src:    url('fonts/icomoon.eot?8ah2xk');
+    src:    url('fonts/icomoon.eot?8ah2xk#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?8ah2xk') format('truetype'),
+        url('fonts/icomoon.woff?8ah2xk') format('woff'),
+        url('fonts/icomoon.svg?8ah2xk#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.iconf-brand {
+    font-family: 'cpf_brand';
+}
+
+
+
+.icon-brand-04:before {
+    content: "\e903";
+}
+.icon-brand-05:before {
+    content: "\e904";
+}
+.icon-brand-01:before {
+    content: "\e900";
+}
+.icon-brand-02:before {
+    content: "\e901";
+}
+.icon-brand-03:before {
+    content: "\e902";
+}
+
